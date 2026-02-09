@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Fetal Movement Detection Project
 
 A complete end-to-end machine learning and deep learning project for detecting fetal movement using accelerometer data from pregnant women.
@@ -142,3 +143,7 @@ Fetal Movement Detection Project
 ## 📄 License
 
 This project is for educational and research purposes.
+=======
+# Fetel_Movement_BiLSTM
+Fetel movement using BiLSTM and also use Random forest model with 98% accuracy
+>>>>>>> c1b749f519489686678cf7d0779f03dd2515fa8f
